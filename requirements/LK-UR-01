@@ -1,15 +1,15 @@
-# <auðkenni> – <stuttur titill>
+# LK-UR-01 Loan renewal
 
 <!-- Afritið í requirements/<auðkenni>.md. Haldið ## fyrirsögnum óbreyttum.
 Gildandi texti og próf eru hér; upphaflegur texti, mat og rökstuðningur í issue.
 Afritið ### prófakaflann til að bæta við prófum; gefið hverju prófi nýtt auðkenni. -->
 
 ## Auðkenni
-<stöðugt auðkenni, sama og skráarnafnið án .md>
+LK-UR-01
 
 ## Yfirferðar-issue
 <!-- Setjið hér smellanlegan Markdown-tengil á yfirferðar-issue, t.d.:
-[Yfirferð kröfunnar – issue #12](https://github.com/HOPUR/SAFN/issues/12)
+[Yfirferð kröfunnar – issue #12](https://github.com/hvannberg/BOKASAFNET/issues/1)
 Skiptið HOPUR, SAFN og 12 út fyrir rétt gildi. Notið heilan tengil;
 #12 eitt og sér verður ekki sjálfkrafa að issue-tengli í Markdown-skrá.
 Athugasemdin birtist aðeins í frumtexta skrárinnar, ekki í birtri útgáfu. -->
